@@ -98,6 +98,9 @@ a{
   justify-content: center;
   font-family: 'Lato', sans-serif;
 }
+.step:hover{
+  transform: scale(1.1);
+}
 .stepNumber{
   border-bottom: solid #5adac5;
   width: 20%;
