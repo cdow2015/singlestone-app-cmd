@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## After cloning this repo to your local environment, please run: 
 
-
+### `npm install` , then
 ### `npm start`
 
 Runs the app in the development mode.\
